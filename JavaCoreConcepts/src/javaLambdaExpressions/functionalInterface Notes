@@ -1,0 +1,8 @@
+
+Since JDK 1.8
+@FunctionalInterface
+Functional Interface is a having only one abstract method
+
+Also can have static/default methods
+
+ 
